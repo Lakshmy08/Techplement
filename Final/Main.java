@@ -1,6 +1,4 @@
-import java.awt.geom.QuadCurve2D;
 import java.util.*;
-import javax.xml.namespace.QName;
 class QuizGenerator{
     int score=0;
     private String ans1[]=new String[30];
